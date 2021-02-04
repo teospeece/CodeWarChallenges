@@ -1,6 +1,7 @@
 #Teo Speece
 #Instructions: In this kata you will create a function that takes a list of non-negative integers and
 # strings and returns a new list with the strings filtered out.
+#first attempt in hindsight I could have removed nonintegers instead of making new list
 
 def filter_list(l):
     print(l)
